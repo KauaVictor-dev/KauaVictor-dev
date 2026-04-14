@@ -16,6 +16,7 @@ Atualmente, estou aprendendo e desenvolvendo projetos com:
 - CSS
 - JavaScript
 - MySQL
+- React.Js
 
 Tenho como objetivo me tornar um desenvolvedor Full Stack e conquistar minha primeira oportunidade na área.
 
@@ -27,6 +28,7 @@ Tenho como objetivo me tornar um desenvolvedor Full Stack e conquistar minha pri
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![React](https://img.shields.io/badge/React-18-blue)
 
 ---
 
@@ -47,13 +49,13 @@ Tenho como objetivo me tornar um desenvolvedor Full Stack e conquistar minha pri
 ---
 
 ## 📌 Projeto em destaque
-☕ **Coffee Landing Page**  
+☕ **Chat Connection**  
 - Projeto em equipe  
-- Backend com Java + Spring Boot  
-- Front-End com HTML, CSS e JavaScript  
+- Backend com Java  
+- Front-End com HTML, CSS e React.Js 
 - Deploy na Vercel  
 
-🚧 Em fase final
+🚧 Em andamento
 
 ---
 
