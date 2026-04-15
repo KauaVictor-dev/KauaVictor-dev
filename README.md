@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Kauã
 
 💻 Desenvolvedor em formação  
-🚀 Focado em Back-End e evoluindo para Full Stack  
+🚀 Focado em Front-End e evoluindo para Full Stack  
 ☕ Atualmente trabalhando em projetos reais  
 
 ---
